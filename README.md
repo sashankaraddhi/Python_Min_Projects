@@ -164,3 +164,11 @@ Planned improvements include:
 * Search Account by Name
 * Interest Calculation
 * Account Statements
+
+---
+
+# Author
+
+**Sashank Araddhi**
+
+GitHub: https://github.com/sashankaraddhi
